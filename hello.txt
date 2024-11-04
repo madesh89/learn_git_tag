@@ -3,3 +3,12 @@ devlopment is in progress...
 testing in progress
 fixed all the bugs
 This day i had lot of work
+hello, dear how are you? I am trying to change my career, but its making difficult dear.
+
+I am practicing git version control.
+
+there are 4 stages:
+1. Working directory
+2. Staging area.
+3. Local repo (Committed area)
+4. Remote repo-that is git hum
